@@ -1,0 +1,33 @@
+body {
+  background-color: lightblue;
+  color: blue;
+}
+
+h1 {
+  font-size: 30px;
+  color: yellow;
+}
+
+p {
+  font-size: 18px;
+}
+
+.intro {
+  font-style: italic;
+}
+
+.body {
+  font-style: bold;
+}
+
+.attribution {
+  font-size: 12px;
+}
+
+.large {
+  width: 50%;
+}
+
+.small {
+  width: 25%;
+}
